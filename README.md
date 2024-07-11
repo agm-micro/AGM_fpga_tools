@@ -1,8 +1,9 @@
 # AGM_fpga_tools
 ## Package link:
 https://mega.nz/folder/RGMBTQRY#IP4mOtQL046L0rilC3coqg
-Version 1.0.3, for Windows 64 only.
-## how to use it:
+
+Version `1.0.3`, for Windows 64 only.
+## How to use it:
 
 > you don't need to run the exe for auto-install, just unzip the exe by 7z.
 
